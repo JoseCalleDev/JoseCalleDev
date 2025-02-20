@@ -11,3 +11,7 @@ Soy José, apasionado por la programación 👨‍💻.
 🤝 &nbsp; Contáctame
 
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/CodeByJose)
+
+### ⚙️ &nbsp; Analytics
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev4&theme=dark&layout=compact" width="410" /></p>
