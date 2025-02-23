@@ -3,7 +3,7 @@
 Soy José, apasionado por la programación 👨‍💻.
 
 
-- 🎓 Estudiante de **Desarrollo de Software**
+- 🎓 Estudiante de **Desarrollo de Software**.
 - 💡 Interesado en el **desarrollo backend** y **bases de datos**.
 - 🌱 Actualmente aprendiendo **Java** y explorando **Laravel**.
 
@@ -14,4 +14,4 @@ Soy José, apasionado por la programación 👨‍💻.
 
 ### ⚙️ &nbsp; Analytics
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev4&theme=dark&layout=compact" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCalleDev&theme=dark&layout=compact" width="410" /></p>
